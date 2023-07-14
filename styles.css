@@ -1,1 +1,78 @@
-/* Write your CSS here! */
+header {
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+body {
+  margin: 8px;
+  display: block;
+  font-family: georgia, serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+ol,
+p {
+  margin-top: 15px;
+  margin-bottom: 15px;
+  margin-right: 300px;
+  margin-left: 300px;
+}
+
+/* img {
+  margin-top: 15px;
+  margin-bottom: 15px;
+  margin-left: 300px;
+} */
+
+h2 {
+  margin-top: 50px;
+}
+
+.title {
+  text-align: center;
+}
+
+#mainHeading {
+  color: red;
+}
+
+.caption {
+  margin-top: 0px;
+  margin-bottom: 25px;
+  font-style: italic;
+}
+
+.funParagraph {
+  color: green;
+}
+
+.copyright {
+  text-align: center;
+}
+
+img {
+  margin-top: 15px;
+  margin-right: 300px;
+  margin-left: 300px;
+}
+
+.portrait {
+  max-height: 500px;
+  height: auto;
+}
+
+.landscape {
+  max-width: 500px;
+  height: auto;
+}
+
+.list-image {
+  margin-left: 0px;
+  margin-bottom: 15px;
+}
